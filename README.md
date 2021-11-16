@@ -1,2 +1,2 @@
 # Nasa-api-project
-This project incorperates nasa astronomy API h images taken from Space. Users can mark pictures as their favourite as they scroll through them 
+This project incorperates nasa astronomy API to get random images taken from space. Users can mark pictures as their favourite as they scroll through them 
